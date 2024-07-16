@@ -1,1 +1,2 @@
-# PixeloramaExtensionRepository
+# Pixelorama Extension Repository
+A repository containing extensions that are available for [Pixelorama](https://github.com/Orama-Interactive/Pixelorama). The list of extensions can be found in [extensions_repository.md](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/blob/main/extension_repository.md), which is a file that Pixelorama's integrated extension explorer uses to download extensions within the application itself.
