@@ -34,7 +34,7 @@
 
 [["name", "TimeTracking"], ["version", 0.2], ["sha256", "b15f7260040f656a2b87a8e901181f2739a403261108ec59ffc67c0811101215"], ["description", "Saves project statistics in the .pxo file (access with Help>Project Statistics)"], ["readme", "https://github.com/Variable-Interactive/TimeTracking/blob/master/README.md"], ["tags", "Analytics"], ["thumbnail", "https://github.com/user-attachments/assets/9d50f084-6e4e-4706-9f5b-682d91dfb080"], ["download_link", "https://github.com/Variable-Interactive/TimeTracking/releases/download/v0.2/TimeTracking.pck"]]
 
-[["name", "CameraZoomer"], ["version", "0.2"], ["sha256", "bf38a4df9c3face6664cd58cffed517a449c6c18ce600d9b4e00d7831493ef68"], ["description", "Lets you set precise zoom values to Canvas Preview"], ["readme", "https://github.com/Variable-Interactive/CameraZoomer/blob/master/README.md"], ["tags", "UI"], ["thumbnail", "https://github.com/user-attachments/assets/8455b398-05ee-453f-8920-aa843a562d2b"], ["download_link", "https://github.com/Variable-Interactive/CameraZoomer/releases/download/v0.2/CameraZoomer.pck"]]
+[["name", "CameraZoomer"], ["version", 0.2], ["sha256", "bf38a4df9c3face6664cd58cffed517a449c6c18ce600d9b4e00d7831493ef68"], ["description", "Lets you set precise zoom values to Canvas Preview"], ["readme", "https://github.com/Variable-Interactive/CameraZoomer/blob/master/README.md"], ["tags", "UI"], ["thumbnail", "https://github.com/user-attachments/assets/8455b398-05ee-453f-8920-aa843a562d2b"], ["download_link", "https://github.com/Variable-Interactive/CameraZoomer/releases/download/v0.2/CameraZoomer.pck"]]
 
 // Template for adding new entry:
-//[["name", ""], ["version", ""], ["sha256", ""], ["description", ""], ["readme", ""], ["tags", ""], ["thumbnail", ""], ["download_link", ""]]
+//[["name", ""], ["version", 0.0], ["sha256", ""], ["description", ""], ["readme", ""], ["tags", ""], ["thumbnail", ""], ["download_link", ""]]
