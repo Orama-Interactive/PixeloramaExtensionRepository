@@ -35,5 +35,5 @@ For further help see the entries below for reference of how it's done
 
 [["name", "CameraZoomer"], ["version", 0.2], ["sha256", "bf38a4df9c3face6664cd58cffed517a449c6c18ce600d9b4e00d7831493ef68"], ["description", "Lets you set precise zoom values to Canvas Preview"], ["readme", "https://github.com/Variable-Interactive/CameraZoomer/blob/master/README.md"], ["tags", "UI"], ["thumbnail", "https://github.com/user-attachments/assets/8455b398-05ee-453f-8920-aa843a562d2b"], ["download_link", "https://github.com/Variable-Interactive/CameraZoomer/releases/download/v0.2/CameraZoomer.pck"]]
 
-Template for adding new entry (// is required here, otherwise il'll be seen as an Array):
+Template for adding new entry (// is required here, otherwise it will be seen as an Array):
 //[["name", ""], ["version", ""], ["sha256", ""], ["description", ""], ["readme", ""], ["tags", ""], ["thumbnail", ""], ["download_link", ""]]
