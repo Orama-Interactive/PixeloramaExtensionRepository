@@ -1,23 +1,22 @@
-// This file is for online use.<br>
+This file is for online use.<br>
 
 ## Rules for writing a repository file:
-// 1. A repository entry is one large Array (referred to as "entry") consisting of sub-arrays (referred to as "data")<br>
-// e.g `[[keyword, ....], [keyword, ....], [keyword, ....], .......]`<br>
-// 2. Each data must have a keyword of type `String` at it's first index which helps in identifying what the data represents.<br>
-// e.g, ["name", "name of extension"] is the data giving information about "name".<br>
-// Valid keywords are `name`, `version`, `sha256`, `description`, `readme`, `tags`, `thumbnail`, `download_link`<br>
-// Put quotation marks ("") to make it a string, otherwise errors will occur.<br>
-// 3. One repository entry must occupy only one line.<br>
-// 4. Comments are supported. You can comment an entire line by placing `#` or `//` at the start of the line. Comments between or at end of line are not allowed.<br>
-// 5. Links to another extension_repository file can be placed inside another extension_repository file, and it will get detected as a custom repository file.<br>
+1. A repository entry is one large Array (referred to as "entry") consisting of sub-arrays (referred to as "data")<br>
+e.g `[[keyword, ....], [keyword, ....], [keyword, ....], .......]`<br>
+2. Each data must have a keyword of type `String` at it's first index which helps in identifying what the data represents.<br>
+e.g, ["name", "name of extension"] is the data giving information about "name".<br>
+Valid keywords are `name`, `version`, `sha256`, `description`, `readme`, `tags`, `thumbnail`, `download_link`<br>
+Put quotation marks ("") to make it a string, otherwise errors will occur.<br>
+3. One repository entry must occupy only one line.<br>
+4. Comments are supported. You can comment an entire line by placing `#` or `//` at the start of the line. Comments between or at end of line are not allowed.<br>
+5. Links to another extension_repository file can be placed inside another extension_repository file, and it will get detected as a custom repository file.<br>
 
 ## TIPS:
-// - `thumbnail` is the link you get by right clicking an image (uploaded somewhere on the internet) and selecting Copy Image Link.<br>
-// - `download_link` is usually of the form `{repo}/raw/{Path of extension within repo}`<br>
-// e.g, if `https://github.com/Variable-ind/Pixelorama-Extensions/blob/master/Extensions/Example.pck` is the URL path to your extension then replace "blob" with "raw"
-// and the link becomes `"https://github.com/Variable-ind/Pixelorama-Extensions/raw/master/Extensions/Example.pck"`<br>
+- `thumbnail` is the link you get by right clicking an image (uploaded somewhere on the internet) and selecting Copy Image Link.<br>
+- `download_link` is usually of the form `{repo}/raw/{Path of extension within repo}`<br>
+e.g, if `https://github.com/Variable-ind/Pixelorama-Extensions/blob/master/Extensions/Example.pck` is the URL path to your extension then replace "blob" with "raw" and the link becomes `"https://github.com/Variable-ind/Pixelorama-Extensions/raw/master/Extensions/Example.pck"`<br>
 
-// For further help see the entries below for reference of how it's done
+For further help see the entries below for reference of how it's done
 ## Entries:
 
 [["name", "Voxelorama"], ["version", 1.0], ["sha256", "36776ae93aeb737129a3d12225edae7767946ffbafb086ed02e30adb374ab665"], ["description", "An extension for Pixelorama that generates 3D voxel art out of 2D pixel art."], ["readme", "https://github.com/Orama-Interactive/VoxeloramaExtension/blob/main/README.md"], ["tags", "Tool", "3D"], ["thumbnail", "https://user-images.githubusercontent.com/35376950/185218214-c8356f86-00ed-4f39-b0f8-458a29d0061b.png"], ["download_link", "https://github.com/Orama-Interactive/VoxeloramaExtension/releases/download/1.0/Voxelorama.pck"]]
@@ -36,5 +35,5 @@
 
 [["name", "CameraZoomer"], ["version", 0.2], ["sha256", "bf38a4df9c3face6664cd58cffed517a449c6c18ce600d9b4e00d7831493ef68"], ["description", "Lets you set precise zoom values to Canvas Preview"], ["readme", "https://github.com/Variable-Interactive/CameraZoomer/blob/master/README.md"], ["tags", "UI"], ["thumbnail", "https://github.com/user-attachments/assets/8455b398-05ee-453f-8920-aa843a562d2b"], ["download_link", "https://github.com/Variable-Interactive/CameraZoomer/releases/download/v0.2/CameraZoomer.pck"]]
 
-// Template for adding new entry:
-//[["name", ""], ["version", 0.0], ["sha256", ""], ["description", ""], ["readme", ""], ["tags", ""], ["thumbnail", ""], ["download_link", ""]]
+Template for adding new entry (// is required here, otherwise il'll be seen as an Array):
+//[["name", ""], ["version", ""], ["sha256", ""], ["description", ""], ["readme", ""], ["tags", ""], ["thumbnail", ""], ["download_link", ""]]
