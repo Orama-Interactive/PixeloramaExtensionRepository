@@ -32,5 +32,7 @@
 
 [["name", "CameraZoomer"], ["version", 0.3], ["sha256", "20e75e434cabe7226fbd04c73a13b69fec509673594a23bebfba662de62179ab"], ["description", "Lets you set precise zoom values to Canvas Preview"], ["readme", "https://github.com/Variable-Interactive/CameraZoomer/blob/master/README.md"], ["tags", "UI"], ["thumbnail", "https://github.com/user-attachments/assets/8455b398-05ee-453f-8920-aa843a562d2b"], ["download_link", "https://github.com/Variable-Interactive/CameraZoomer/releases/download/v0.3/CameraZoomer.pck"]]
 
+[["name", "LineArt"], ["version", 0.3], ["sha256", "d91dc88f0126086b441d3fb17c3f3e29e0aba87755ba979faa018465b71ee97a"], ["description", "It is an extension for pixelorama that adds a lineart shader in the effects menu"], ["readme", "https://github.com/Variable-Interactive/LineArt/blob/master/README.md"], ["tags", "Image Effect"], ["thumbnail", "https://github.com/user-attachments/assets/322c96ec-83e7-4775-9cd1-6b5bb3857d79"], ["download_link", "https://github.com/Variable-Interactive/LineArt/releases/download/v0.3/LineArt.pck"]]
+
 // Template for adding new entry:
 //[["name", ""], ["version", 0.0], ["sha256", ""], ["description", ""], ["readme", ""], ["tags", ""], ["thumbnail", ""], ["download_link", ""]]
