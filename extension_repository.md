@@ -26,6 +26,8 @@
 
 [["name", "OpenDyslexicFont"], ["version", 1.0], ["sha256", "94096af670a5a11e7689abb21e6aebdcff14e14190df2550a1953eb4b40d32e2"], ["description", "A Pixelorama extension that sets the OpenDyslexic font as the main font of the user interface."], ["readme", "https://github.com/OverloadedOrama/OpenDyslexic-Pixelorama-Extension/blob/main/README.md"], ["tags", "Fonts"], ["download_link", "https://github.com/OverloadedOrama/OpenDyslexic-Pixelorama-Extension/releases/download/v1.0/OpenDyslexicFont.pck"]]
 
+[["name", "ExtensionCreator"], ["version", 1.2], ["sha256", "1a3ccec312309d418dfc3f532cdc70ca94a23e2ee744fc46e4afff24efbd44bf"], ["description", "Used as a guide by beginers for creating extensions (Open from help menu)"], ["tags", "Tutorial"], ["thumbnail", "https://github.com/user-attachments/assets/44630889-3c0e-467b-85c9-5abf7045ee91"], ["download_link", "https://github.com/Variable-Interactive/ExtensionCreator/releases/download/v1.2/ExtensionCreator.pck"]]
+
 [["name", "KeyDisplay"], ["version", 1.0], ["sha256", "e1a9dc360141f252e7700acaa92ffe77db53ebce38cf69d3c530b252e4d0f26a"], ["description", "Handy extension to display shortcuts for use in videos etc.)"], ["readme", "https://github.com/Variable-Interactive/KeyDisplay/blob/master/README.md"], ["tags", "UI"], ["thumbnail", "https://github.com/user-attachments/assets/de510a60-9b3b-464d-a025-c38cc8d7b09c"], ["download_link", "https://github.com/Variable-Interactive/KeyDisplay/releases/download/v1.0/KeyDisplay.pck"]]
 
 // Template for adding new entry:
