@@ -46,5 +46,7 @@
 
 [["name", "LegacyColorPicker"], ["version", 0.2], ["sha256", "3a70eeb4a302c34644f7c79a6953ccc7aa193ef255280c010471cad3f2c97665"], ["description", "This Extension brings back the old color picker used by Pixelorama 0.11.x (and before)"], ["readme", "https://github.com/Variable-Interactive/PixeloramaLegacyColorPicker/blob/v0.1/README.md"], ["tags", "UI"], ["thumbnail", "https://github.com/user-attachments/assets/e2a35aa5-2826-4e4c-84fc-9152b6d78fe6"], ["download_link", "https://github.com/Variable-Interactive/PixeloramaLegacyColorPicker/releases/download/v0.2/LegacyColorPicker.pck"]]
 
+[["name", "Skeletor"], ["version", 0.1], ["sha256", "49b2eab9e823d1c34fd9b592a9072b12eb233797af206a2e57cdda88a7755cea"], ["description", "This extension adds basic skeletal animation capabilities to pixelorama."], ["readme", "https://github.com/Variable-Interactive/Skeletor/blob/v0.1/README.md"], ["tags", "animation"], ["thumbnail", "https://github.com/user-attachments/assets/3f5ec294-600e-4cd4-9049-7c0124801662"], ["download_link", "https://github.com/Variable-Interactive/Skeletor/releases/download/v0.1/Skeletor.pck"]]
+
 // Template for adding new entry:
 //[["name", ""], ["version", 0.0], ["sha256", ""], ["description", ""], ["readme", ""], ["tags", ""], ["thumbnail", ""], ["download_link", ""]]
