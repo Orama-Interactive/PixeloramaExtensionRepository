@@ -48,5 +48,7 @@
 
 [["name", "Skeletor"], ["version", 0.18], ["sha256", "83982fad08bdc8aa6a4ee775c2636fc897699caffcc3157c3a2b635b88e37092"], ["description", "This extension adds basic skeletal animation capabilities to pixelorama."], ["readme", "https://github.com/Variable-Interactive/Skeletor/blob/master/README.md"], ["tags", "Animation"], ["thumbnail", "https://github.com/user-attachments/assets/3f5ec294-600e-4cd4-9049-7c0124801662"], ["download_link", "https://github.com/Variable-Interactive/Skeletor/releases/download/v0.18/Skeletor.pck"]]
 
+[["name", "PixeloramaMCP"], ["version", 0.1], ["sha256", "ec6c1b8008a39d04144a5acaf4883eb598ae088b26416c7dafb7f7b874d25dfe"], ["description", "MCP bridge for automating Pixelorama through Claude Code or any MCP client. 107 tools: drawing, layers, animation, effects, tilemaps, brushes, export and more."], ["readme", "https://github.com/VolkovIlia/Pixelorama-mcp/blob/main/README.md"], ["tags", "Tool", "AI", "Automation"], ["thumbnail", "https://github.com/VolkovIlia/Pixelorama-mcp/raw/main/demo/house_birds.png"], ["download_link", "https://github.com/VolkovIlia/Pixelorama-mcp/releases/download/v0.1.0/PixeloramaMCP.pck"]]
+
 // Template for adding new entry:
 //[["name", ""], ["version", 0.0], ["sha256", ""], ["description", ""], ["readme", ""], ["tags", ""], ["thumbnail", ""], ["download_link", ""]]
