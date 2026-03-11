@@ -54,5 +54,10 @@
 
 [["name", "Skeletor"], ["version", 0.18], ["sha256", "83982fad08bdc8aa6a4ee775c2636fc897699caffcc3157c3a2b635b88e37092"], ["description", "This extension adds basic skeletal animation capabilities to pixelorama."], ["readme", "https://github.com/Variable-Interactive/Skeletor/blob/master/README.md"], ["tags", "Animation"], ["thumbnail", "https://github.com/user-attachments/assets/3f5ec294-600e-4cd4-9049-7c0124801662"], ["download_link", "https://github.com/Variable-Interactive/Skeletor/releases/download/v0.18/Skeletor.pck"]]
 
+[["name", "ReferenceUpdater"], ["version", 0.1], ["sha256", "024fe4193c244f18bd25de30ed7090eadeae6f435ddc47a02a9579f500f41afa"], ["description", "A handy extension for auto updating reference images on modification."], ["readme", "https://github.com/Variable-Interactive/PixeloramaReferenceUpdater/blob/master/README.md"], ["tags", "Reference"], ["download_link", "https://github.com/Variable-Interactive/PixeloramaReferenceUpdater/releases/download/v0.1/ReferenceUpdater.pck"]]
+
+// Tags used so far: (it's good practice to mention new Tags here, prefferably in alphabetical order)
+// Analytics, Animation, Discord, Export, Fonts, Image Effect, Palettes, Reference, Shortcuts, Spritesheet, Tool, Tutorial, UI, 3D
+
 // Template for adding new entry:
 //[["name", ""], ["version", 0.0], ["sha256", ""], ["description", ""], ["readme", ""], ["tags", ""], ["thumbnail", ""], ["download_link", ""]]
