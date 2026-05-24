@@ -60,8 +60,10 @@
 
 [["name", "ReferenceUpdater"], ["version", 0.1], ["sha256", "024fe4193c244f18bd25de30ed7090eadeae6f435ddc47a02a9579f500f41afa"], ["description", "A handy extension for auto updating reference images on modification."], ["readme", "https://github.com/Variable-Interactive/PixeloramaReferenceUpdater/blob/master/README.md"], ["tags", "Reference"], ["download_link", "https://github.com/Variable-Interactive/PixeloramaReferenceUpdater/releases/download/v0.1/ReferenceUpdater.pck"]]
 
+[["name", "PBRToolkit"], ["version", 1.0], ["sha256", "6ec72f12903d0edd10aa68d7b772b4e3882934005a820d138697f0aa91c5df0f"], ["description", "Create PBR (Physically Based Rendering) assets and preview them in realtime."], ["readme", "https://github.com/anti-matt-er/Pixelorama-PBR-Toolkit/blob/master/README.md"], ["tags", "Materials", "Export", "3D"], ["thumbnail", "https://github.com/anti-matt-er/Pixelorama-PBR-Toolkit/blob/master/src/Extensions/PBRToolkit/assets/icon/icon.png"], ["download_link", "https://github.com/anti-matt-er/Pixelorama-PBR-Toolkit/releases/download/1.0/PBRToolkit.pck"]]
+
 // Tags used so far: (it's good practice to mention new Tags here, prefferably in alphabetical order)
-// Analytics, Animation, Discord, Export, Fonts, Image Effect, Palettes, Reference, Shortcuts, Spritesheet, Tool, Tutorial, UI, 3D
+// Analytics, Animation, Discord, Export, Fonts, Image Effect, Materials, Palettes, Reference, Shortcuts, Spritesheet, Tool, Tutorial, UI, 3D
 
 // Template for adding new entry:
 //[["name", ""], ["version", 0.0], ["sha256", ""], ["description", ""], ["readme", ""], ["tags", ""], ["thumbnail", ""], ["download_link", ""]]
