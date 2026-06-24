@@ -26,6 +26,8 @@
 
 [["name", "OpenDyslexicFont"], ["version", 1.2], ["sha256", "a78b6f0f4fb197337d9b076bc60a05627d779c8c62591c744574aa1ef72b3f78"], ["description", "A Pixelorama extension that sets the OpenDyslexic font as the main font of the user interface."], ["readme", "https://github.com/OverloadedOrama/OpenDyslexic-Pixelorama-Extension/blob/main/README.md"], ["tags", "Fonts"], ["download_link", "https://github.com/OverloadedOrama/OpenDyslexic-Pixelorama-Extension/releases/download/v1.2/OpenDyslexicFont.pck"]]
 
+[["name", "Ceramic"], ["version", 0.1], ["sha256", "a655c1e71eb8d322780a755f310543204baf02476780a9e14c27fa942394e393"], ["description", "Ceramic is a script editor for pixelorama designed to be used for simple scripts without having to make an extension."], ["readme", "https://github.com/Variable-Interactive/Pixelorama-Ceramic/blob/master/README.md"], ["tags", "Scripting"], ["thumbnail", "https://github.com/user-attachments/assets/bf599b58-f348-445d-a55b-271e1f2aee56"], ["download_link", "https://github.com/Variable-Interactive/Pixelorama-Ceramic/releases/download/v0.1/Ceramic.pck"]]
+
 [["name", "ColorChecker"], ["version", 0.2], ["sha256", "38c08318bec03dca9ebbbb352de97ee668f2fd04dca372b959283d659c4c94d5"], ["description", "An extension for assistance in matching colors while choosing a new color"], ["readme", "https://github.com/Variable-Interactive/PixeloramaColorChecker/blob/master/README.md"], ["thumbnail", "https://github.com/user-attachments/assets/46e34f56-9e07-4472-bf42-ac68c4638617"], ["tags", "UI", "Palettes"], ["download_link", "https://github.com/Variable-Interactive/PixeloramaColorChecker/releases/download/v0.2/ColorChecker.pck"]]
 
 [["name", "CopyLayerFx"], ["version", 0.1], ["sha256", "1cdca1803c3a7de480390b0cdd096ed2b6f28c33e6ae3e01d7f05eb3ec661bf6"], ["description", "Copy layer effects from one layer to another. The option is located in project menu"], ["tags", "Image Effect", "UI"], ["download_link", "https://github.com/Variable-Interactive/PixeloramaCopyLayerFx/releases/download/v0.1/CopyLayerFx.pck"]]
@@ -61,7 +63,7 @@
 [["name", "PBRToolkit"], ["version", 1.0], ["sha256", "6ec72f12903d0edd10aa68d7b772b4e3882934005a820d138697f0aa91c5df0f"], ["description", "Create PBR (Physically Based Rendering) assets and preview them in realtime."], ["readme", "https://github.com/anti-matt-er/Pixelorama-PBR-Toolkit/blob/master/README.md"], ["tags", "Materials", "Export", "3D"], ["thumbnail", "https://raw.githubusercontent.com/anti-matt-er/Pixelorama-PBR-Toolkit/refs/heads/master/src/Extensions/PBRToolkit/assets/icon/icon.png"], ["download_link", "https://github.com/anti-matt-er/Pixelorama-PBR-Toolkit/releases/download/1.0/PBRToolkit.pck"]]
 
 // Tags used so far: (it's good practice to mention new Tags here, prefferably in alphabetical order)
-// Analytics, Animation, Discord, Export, Fonts, Image Effect, Materials, Palettes, Reference, Shortcuts, Spritesheet, Tool, Tutorial, UI, 3D
+// Analytics, Animation, Discord, Export, Fonts, Image Effect, Materials, Palettes, Reference, Scripting, Shortcuts, Spritesheet, Tool, Tutorial, UI, 3D
 
 // Template for adding new entry:
 //[["name", ""], ["version", 0.0], ["sha256", ""], ["description", ""], ["readme", ""], ["tags", ""], ["thumbnail", ""], ["download_link", ""]]
